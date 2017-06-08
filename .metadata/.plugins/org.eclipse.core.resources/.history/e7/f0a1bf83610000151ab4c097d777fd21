@@ -1,0 +1,126 @@
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+
+
+public class RandomWalk {
+	
+	static class MyMapper extends Mapper<LongWritable,Text,IntWritable,Text>{
+		// 存储节点的id
+		private IntWritable id;
+		//游走者停留在该节点的概率
+		private String probability;
+		//存储节点的度数
+		private int degree;
+		//已知游走者在这个节点概率值，计算游走者从这个节点游走到下一个邻接节点的概率
+		private float average_pro;
+		
+		@Override
+		protected void map(LongWritable key, Text value,
+				Mapper<LongWritable, Text, IntWritable, Text>.Context context)
+				throws IOException, InterruptedException {
+			StringTokenizer string = new StringTokenizer(value.toString());
+			if(string.hasMoreTokens()){
+				//获得节点id
+				id=new IntWritable(Integer.parseInt(string.nextToken()));
+			}else{return;}
+			
+			//获取游走者停留在该节点的概率
+			probability=string.nextToken();
+			degree=string.countTokens();
+			average_pro=Float.parseFloat(probability)/degree;
+			
+			//获得节点的邻居节点并输出
+			while(string.hasMoreTokens()){
+				String neighborNode=string.nextToken();
+				Text t= new Text("&"+average_pro);
+				IntWritable neighborID = new IntWritable(Integer.parseInt(neighborNode));
+				Text tt=new Text("@"+neighborID.get());
+				//输出节点的id以及邻居节点的id
+				context.write(id, tt);
+				//以"@average_pro"的格式输出节点的id及转移到其他节点的概率值
+				context.write(neighborID, t);
+				
+				
+				
+				
+			}
+		}
+		
+		
+		
+	}
+
+	static class MyReducer extends Reducer<IntWritable,Text,IntWritable,Text>{
+		
+		@Override
+		protected void reduce(IntWritable key, Iterable<Text> values,
+				Reducer<IntWritable, Text, IntWritable, Text>.Context context)
+				throws IOException, InterruptedException {
+			ArrayList<String> ids = new ArrayList<String>();//存储节点邻居节点的id
+			String lianjie =" ";//以string的形式存储节点的id
+			float probability=0;//游走者停留在该节点概率值
+			
+			//遍历
+			for(Text text: values){
+				String string = text.toString();
+				
+				//判断value是转移概率还是邻居节点
+				if(string.substring(0, 1).equals("&")){//转移概率
+					probability+=Float.parseFloat(string.substring(1));
+				}else if(string.substring(0, 1).equals("@")){
+					ids.add(string.substring(1));
+				}	
+			}
+			
+			//将所有的邻居节点连接成字符串
+			for(int i=0;i<ids.size();i++){
+				lianjie+=ids.get(i)+" ";
+			}
+			
+			//组合成probability+lianjie成原文件的格式类型
+			String result=probability+lianjie;
+			System.out.println("reduce result="+result);
+			context.write(key,new Text(result));
+			System.out.println("reduce 执行完毕");
+			
+		}
+	}
+
+	public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
+		Configuration conf = new Configuration();
+		 String inputPath = "hdfs://hadoop:9000/Facebook100";
+		 String outputPath = "";
+		 int n=50;
+		 
+		for(int i=0;i<n;i++){
+			 System.out.println("循环次数="+i);
+			 Job job = new Job(conf,RandomWalk.class.getSimpleName());
+			 outputPath = inputPath+i;
+			 job.setMapperClass(MyMapper.class);
+			 job.setReducerClass(MyReducer.class);
+			 job.setOutputKeyClass(IntWritable.class);
+			 job.setOutputValueClass(Text.class);
+			 FileInputFormat.setInputPaths(job, new Path(inputPath));
+			 FileOutputFormat.setOutputPath(job, new Path(outputPath));
+			 inputPath = outputPath+"/part-r-00000";
+			 job.waitForCompletion(true);
+			 
+		 }
+		 
+	}
+
+
+
+}

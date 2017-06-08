@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>E:/余跃/文件/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-1.1.2/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

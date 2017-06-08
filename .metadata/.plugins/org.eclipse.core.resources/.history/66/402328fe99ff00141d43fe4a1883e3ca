@@ -1,0 +1,49 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+
+public class GenerateGMLfile {
+	static int nodeNum=4;
+	static File sourceFile = new File("D:\\JavaPrograme\\facebookData\\TEST.txt");
+	static FileReader f = null;
+	static BufferedReader br = null;
+	static void generateEdge(){
+		String read=null;
+		try {
+			f=new FileReader(sourceFile);
+			br=new BufferedReader(f);
+			try {
+				read=br.readLine();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+			
+			while(read!=null){
+				System.out.println(read);
+				try {
+					read=br.readLine();
+					String ss[] = read.split("	");
+					for(int i=0;i<ss.length;i++){
+					System.out.println(ss[i]);	
+					}
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				
+			}
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public static void main(String[] args){
+		generateEdge();
+	}
+}

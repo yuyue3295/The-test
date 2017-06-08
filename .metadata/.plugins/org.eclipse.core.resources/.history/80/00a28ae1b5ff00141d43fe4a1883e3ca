@@ -1,0 +1,115 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+
+public class GenerateGMLfile {
+	static int nodeNum=4;
+	static File sourceFile = new File("D:\\JavaPrograme\\facebookData\\TEST.txt");
+	static File gmlFile = new File("D:\\JavaPrograme\\facebookData\\TEST.gml");
+	static FileReader f = null;
+	static BufferedReader br = null;
+	static FileWriter fw =null;
+	static BufferedWriter bw =null;
+	 
+	static void generateEdge(){
+		String read=null;
+		try {
+			f=new FileReader(sourceFile);
+			br=new BufferedReader(f);
+			
+			
+			try {
+				read=br.readLine();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+			
+			while(read!=null){
+				try {
+					String ss[] = read.split("	");
+					bw.write("edge");
+					bw.newLine();
+					bw.write("[");
+					bw.newLine();
+					bw.write(" source "+ss[0]);
+					bw.newLine();
+					bw.write(" target "+ss[1]);
+					bw.newLine();
+					bw.write("]");
+					bw.newLine();
+					
+					read=br.readLine();
+					
+					
+					
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				
+			}
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		try {
+			bw.write("]");
+			bw.flush();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+	static void generateNode(){
+		try {
+			fw=new FileWriter(gmlFile);
+			bw=new BufferedWriter(fw);
+			bw.write("graph");
+			bw.newLine();
+			bw.write("[");
+			bw.newLine();
+			for(int i=0;i<nodeNum;i++){
+				bw.write("node");
+				bw.newLine();
+				bw.write("[");
+				bw.newLine();
+				bw.write("id " +i);
+				bw.newLine();
+				bw.write("]");
+				bw.newLine();
+			}
+			
+			bw.flush();
+			
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}finally{
+			
+			try {
+				bw.close();
+				br.close();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+	
+	public static void main(String[] args){
+	
+		
+		generateNode();
+		generateEdge();
+	}
+}

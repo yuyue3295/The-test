@@ -1,0 +1,790 @@
+!SESSION 2015-03-20 22:39:51.640 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-20 22:40:28.160
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-20 22:40:28.161
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-22 14:53:52.382 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-22 14:54:24.840
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-22 14:54:24.851
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-26 09:03:24.507 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-26 09:03:53.929
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-26 09:03:53.939
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-27 11:22:30.734 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-27 11:23:02.776
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-27 11:23:02.776
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-30 08:53:53.898 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-30 08:54:22.043
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-30 08:54:22.057
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-01 09:11:17.163 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-01 09:11:44.278
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-01 09:11:44.293
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2015-04-01 10:53:16.999
+!MESSAGE Error setting focus to : org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl CalculateModularity.java
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:476)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:348)
+	at org.eclipse.swt.widgets.Control.setFocus(Control.java:3320)
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1039)
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1039)
+	at org.eclipse.ui.texteditor.StatusTextEditor.setFocus(StatusTextEditor.java:120)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.setFocus(JavaEditor.java:2389)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.delegateSetFocus(CompatibilityPart.java:190)
+	at sun.reflect.GeneratedMethodAccessor38.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:253)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:225)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:107)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.focusGui(PartRenderingEngine.java:795)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$2.setFocus(ContributedPartRenderer.java:100)
+	at org.eclipse.swt.custom.CTabItem.setFocus(CTabItem.java:332)
+	at org.eclipse.swt.custom.CTabFolder.setFocus(CTabFolder.java:2555)
+	at org.eclipse.swt.widgets.Control.fixFocus(Control.java:1052)
+	at org.eclipse.swt.widgets.Control.setVisible(Control.java:3818)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3098)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3106)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1794)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:283)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+!SESSION 2015-04-14 12:33:30.599 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-14 12:34:01.500
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-14 12:34:01.513
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-15 14:43:27.566 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-15 14:43:51.169
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-15 14:43:51.201
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-15 23:29:12.764 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-15 23:29:34.740
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-15 23:29:34.749
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-21 19:20:03.734 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-21 19:20:30.313
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-21 19:20:30.318
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-21 19:24:14.950 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-21 19:24:33.263
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-21 19:24:33.263
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-22 11:06:28.535 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-22 11:06:47.471
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-22 11:06:47.483
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-10 10:49:39.588 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-10 10:50:07.257
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-10 10:50:07.257
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-10 10:53:18.013 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-10 10:53:36.127
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-10 10:53:36.127
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-12 12:51:03.646 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-12 12:51:33.555
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-12 12:51:33.559
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-20 21:32:59.608 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.725
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-ant-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-client-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-core-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-examples-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-minicluster-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-test-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-tools-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\asm-3.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\aspectjrt-1.6.11.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\aspectjtools-1.6.11.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-beanutils-1.7.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-beanutils-core-1.8.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-cli-1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-codec-1.4.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-collections-3.2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-configuration-1.6.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-daemon-1.0.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-digester-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-el-1.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-httpclient-3.0.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.741
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-io-2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-lang-2.4.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-logging-1.1.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-logging-api-1.0.4.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-math-2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-net-3.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\core-3.1.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hadoop-capacity-scheduler-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hadoop-fairscheduler-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hadoop-thriftfs-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hsqldb-1.8.0.10.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jackson-core-asl-1.8.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jackson-mapper-asl-1.8.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jasper-compiler-5.5.12.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jasper-runtime-5.5.12.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jdeb-0.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jersey-core-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jersey-json-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jersey-server-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jets3t-0.6.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jetty-6.1.26.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jetty-util-6.1.26.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jsch-0.1.42.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\junit-4.5.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\kfs-0.2.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\log4j-1.2.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\mockito-all-1.8.5.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\oro-2.0.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\servlet-api-2.5-20081211.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\slf4j-api-1.4.3.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\slf4j-log4j12-1.4.3.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:33:15.756
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\xmlenc-0.52.jar
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-20 21:33:26.614
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-20 21:33:26.614
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-20 21:35:05.830 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-ant-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-client-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-core-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-examples-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-minicluster-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-test-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\hadoop-tools-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\asm-3.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\aspectjrt-1.6.11.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\aspectjtools-1.6.11.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-beanutils-1.7.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.135
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-beanutils-core-1.8.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-cli-1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-codec-1.4.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-collections-3.2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-configuration-1.6.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-daemon-1.0.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-digester-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-el-1.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-httpclient-3.0.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-io-2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-lang-2.4.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-logging-1.1.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-logging-api-1.0.4.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-math-2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\commons-net-3.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\core-3.1.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hadoop-capacity-scheduler-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hadoop-fairscheduler-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hadoop-thriftfs-1.1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\hsqldb-1.8.0.10.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jackson-core-asl-1.8.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jackson-mapper-asl-1.8.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jasper-compiler-5.5.12.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jasper-runtime-5.5.12.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jdeb-0.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jersey-core-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jersey-json-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jersey-server-1.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jets3t-0.6.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jetty-6.1.26.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jetty-util-6.1.26.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\jsch-0.1.42.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\junit-4.5.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\kfs-0.2.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\log4j-1.2.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\mockito-all-1.8.5.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\oro-2.0.8.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\servlet-api-2.5-20081211.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.150
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\slf4j-api-1.4.3.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.166
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\slf4j-log4j12-1.4.3.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-05-20 21:35:12.166
+!MESSAGE Invalid ZIP archive: L:\Java及hadoop\吴超就业指导面试资料\学员复制整个文件夹(hadoop1)\学员复制整个文件夹\software\hadoop-1.1.2\lib\xmlenc-0.52.jar
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-20 21:35:24.225
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-20 21:35:24.225
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-21 16:09:14.963 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-21 16:15:48.113
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-21 16:15:48.121
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-22 11:32:53.579 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-22 11:33:19.754
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-22 11:33:19.762
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Kevin-Y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
